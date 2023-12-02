@@ -20,7 +20,7 @@ To begin your journey with Ollama, visit [OllamaHub](https://ollamahub.com) – 
 
 The Ollama Web UI is the interface through which you can interact with Ollama using the downloaded Modelfiles. To use it:
 
-1. Visit the [Ollama Web UI](https://ollama-webui.com).
+1. Visit the [Ollama Web UI](https://github.com/ollama-webui/ollama-webui).
 2. Upload the Modelfile you downloaded from OllamaHub.
 3. Start conversing with diverse characters and assistants powered by Ollama!
 
